@@ -8,12 +8,10 @@ Hey there! 👋 This is Daksh Bhatnagar, and I'm excited to have you here in my 
 Are you a psychic when it comes to guessing numbers? Test your intuition with this fun and interactive Number Guesser game! Try to guess the correct number within a given range and see if you can outsmart the computer. May the odds be ever in your favor! 🤞
 
 2. **Job Scraper** 📝
+   Tired of endlessly scrolling through job websites? The Job Scraper is here to save the day! This powerful tool fetches job openings from a specified website and stores them neatly in a CSV file, making your job search a breeze. Land your dream job without breaking a sweat! 💼🔍
 
-Tired of endlessly scrolling through job websites? The Job Scraper is here to save the day! This powerful tool fetches job openings from a specified website and stores them neatly in a CSV file, making your job search a breeze. Land your dream job without breaking a sweat! 💼🔍
-
-3.  **Snake, Water, and Gun Game** 🐍🌊🔫
-   
-Challenge the computer to a game of Snake, Water, and Gun! Can you outsmart the computer in this age-old battle of wits? Here's how it works:
+4.  **Snake, Water, and Gun Game** 🐍🌊🔫
+   Challenge the computer to a game of Snake, Water, and Gun! Can you outsmart the computer in this age-old battle of wits? Here's how it works:
 
 a. 🐍 Snake beats 🔫 Gun: Snakes are sneaky! They'll take down guns any day.
 

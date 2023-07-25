@@ -1,6 +1,6 @@
 # Welcome to Daksh Bhatnagar's JavaScript Files Repository! 🚀
 
-Hey there! 👋 This is Daksh Bhatnagar, and I'm excited to have you here in my JavaScript Files repository. This is where I've stored some of my awesome JavaScript projects that I've been tinkering with! 😄
+Greetings! 👋 This is Daksh Bhatnagar, and I'm excited to have you here in my JavaScript Files repository. This is where I've stored some of my awesome JavaScript projects that I've been tinkering with! 😄
 
 ## 📁 Repository Contents
 

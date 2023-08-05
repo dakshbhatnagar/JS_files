@@ -1,4 +1,4 @@
-# Welcome to Daksh Bhatnagar's JavaScript Files Repository! 🚀
+# Welcome to my JavaScript Files Repository! 🚀
 
 Greetings! 👋 This is Daksh Bhatnagar, and I'm excited to have you here in my JavaScript Files repository. This is where I've stored some of my awesome JavaScript projects that I've been tinkering with! 😄
 
@@ -31,7 +31,7 @@ To explore these projects and experience their awesomeness on your local machine
    cd JS_files
    ```
 
-2. **Choose a project**: Browse through the project folders and select the one that catches your eye!
+2. **Choose a project**: Browse through the files and select the one that catches your eye!
 
 3. **Run the project**: Each project comes with its own set of instructions. Follow the guidelines mentioned in the project folder to launch the web app and have a blast!
 

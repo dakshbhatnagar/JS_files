@@ -14,11 +14,4 @@ function deleteThreads() {
       threads[j].moveToTrash();
     }
   }
-
-  // Move threads from trash to archive
-  let trashThreads = GmailApp.getTrashThreads();
-  for (let k = 0; k < trashThreads.length; k++) {
-    let thread = trashThreads[k];
-    thread.moveToArchive();
-  }
 }
